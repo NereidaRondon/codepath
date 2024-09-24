@@ -19,7 +19,7 @@ function App() {
 
   return (
     <>
-      <h1 className='title my-4 text-3xl sm:text-4xl md:text-5xl font-bold text-center playwrite-de-grund-font'>Web Dev Hive</h1>
+      <h1 className='title my-8 md:my-16 text-3xl sm:text-4xl md:text-5xl font-bold text-center playwrite-de-grund-font'>Web Dev Hive</h1>
       
       <img src={bees} alt='bees' className='w-1/2 md:w-1/3 mx-auto'/>
       <img src={combs} alt='' className='w-full -z-10 absolute top-0 left-0'/>
