@@ -1,12 +1,10 @@
-
-
 export default function Cards(props) {
 
 return(
         <>     
         <div class="sm:w-auto md:w-1/2 lg:w-1/3 xl:w-1/4 p-5 self-center">
           
-          <div class="max-w-sm rounded overflow-hidden shadow-2xl bg-gray-800">
+          <div class="max-w-sm rounded-xl overflow-hidden shadow-2xl bg-gray-800 hover:drop-shadow-xl">
 
             <img class="w-full h-44" src={props.resources.img} alt={props.resources.alt}/>
 

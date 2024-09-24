@@ -7,11 +7,10 @@
   font-style: normal;
 }
 
-
 body{
-  background-color: #2e2e2c;
-  background: linear-gradient(315deg, #eab308, #fdd251,#eab308, #fdd251, #eab308, #fdd251); 
+  background: linear-gradient(130deg, #eab308, #efbb38, #efbb38, #f3c355,  #fad487, #fcdc9f, #f1b911); 
 }
+
 .title{
   filter: drop-shadow(3px 4px 2px rgba(0, 0, 0, .5));
 

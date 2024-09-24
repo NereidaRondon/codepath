@@ -19,14 +19,14 @@ function App() {
 
   return (
     <>
-      <h1 className='title my-4 text-5xl font-bold text-center playwrite-de-grund-font'>Web Development Hive</h1>
+      <h1 className='title my-4 text-3xl sm:text-4xl md:text-5xl font-bold text-center playwrite-de-grund-font'>Web Dev Hive</h1>
       
       <img src={bees} alt='bees' className='w-1/2 md:w-1/3 mx-auto'/>
       <img src={combs} alt='' className='w-full -z-10 absolute top-0 left-0'/>
       
       <section className='content-center'>
         
-        <h2 className='my-10 text-3xl text-center playwrite-de-grund-font'>Web Development Resources</h2>
+        <h2 className='my-10 text-2xl md:text-3xl text-center playwrite-de-grund-font'>Resources for Learning Web Development</h2>
         
         <div className='px-4' >
 
